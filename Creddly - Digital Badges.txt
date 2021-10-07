@@ -1,0 +1,23 @@
+Digital Badges
+
+IBM 
+- Job Application Essentials
+https://www.credly.com/badges/343f9c97-9190-4a05-8e11-becc2c5482b0/public_url
+- Explore Emerging Tech
+https://www.credly.com/badges/8b0bd045-a52e-45d7-8f5f-4fec5139ddd9/public_url
+- Working in a Digital World: Professional Skills
+https://www.credly.com/badges/fab7780a-1860-40e6-a868-425f5a4d383f/public_url
+- Python for Data Science
+https://www.credly.com/badges/46edb1c7-a418-4d38-b36e-b8800ff6372b/public_url
+- Data Analysis Using Python
+https://www.credly.com/badges/6bdfaf5e-815d-4cc5-b6dc-5367c052bd55/public_url
+- Data Visualization Using Python
+https://www.credly.com/badges/3bdcbab2-1531-4486-8a47-755b31635b33/public_url
+- Applied Data Science with Python - Level 2
+https://www.credly.com/badges/5a35bb77-7c3a-4cc0-9a5a-699469ae3d89/public_url
+
+Cisco
+- Networking Academy Learn-A-Thon 2021
+https://www.credly.com/badges/1c234191-59b5-4e73-9e8b-0b44f4aead3f/public_url
+- Cybersecurity Essentials
+https://www.credly.com/badges/dc61854b-3ce7-4db1-905b-749363bc1394/public_url
